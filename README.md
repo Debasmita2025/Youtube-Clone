@@ -1,2 +1,2 @@
-# It is only a clone of youtube home page to practice HTML and CSS
+# Youtube-Clone is only a replication page of youtube home to practice HTML and CSS
 
